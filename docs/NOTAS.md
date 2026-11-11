@@ -1,6 +1,6 @@
 # Notas
 
-xxx
+Bancada de testes do MCP (editada em ciclo de PR).
 
 ## Marcador
 
