@@ -4,4 +4,4 @@ Bancada de testes do MCP.
 
 ## Marcador
 
-Linha original que será editada depois.
+Linha editada via edit_file no branch feat/pr-demo.
